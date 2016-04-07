@@ -1,0 +1,17 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||cocoawithlove.com
+||stackoverflow.com
+||apple.com
+||petersteinberger.com
+||amazon.com
+||vajrakayatechnologies.com
+||medium.com
+||developer.apple.com
+||css-tricks.com
+||genymotion.com
+||nodejs.org
+||dropbox.com
+||dropboxstatic.com
+||github.com
+||amazonaws.com
